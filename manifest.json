@@ -5,7 +5,7 @@
   "scope": "./",
   "display": "standalone",
   "background_color": "#F7F7F7",
-  "theme_color": "#CE82FF",
+  "theme_color": "#58CC02",
   "orientation": "portrait",
   "description": "A simple flashcards app for 50 Turkish verbs.",
     "icons": [
