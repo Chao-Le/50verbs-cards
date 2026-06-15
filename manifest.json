@@ -1,6 +1,6 @@
 {
-  "name": "50 VERBS Flashcards",
-  "short_name": "50 Verbs",
+  "name": "Turkishle",
+  "short_name": "Turkishle",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
