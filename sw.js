@@ -1,4 +1,4 @@
-const CACHE_NAME = 'Turkishle-v2';
+const CACHE_NAME = 'Turkishle-v3';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
